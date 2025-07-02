@@ -1,1 +1,1 @@
-This is a tutorial for NumPy inspired by https://github.com/RajarshiRay25
+These tutorials are inspired by https://github.com/RajarshiRay25
